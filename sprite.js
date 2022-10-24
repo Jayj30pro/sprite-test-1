@@ -26,8 +26,8 @@ function drawSprite(img, sX, SY, sW, sH, dX, dY, dW, dH) {
 
 function showtime(){
     ctx.clearRect(0,0,canvas.width, canvas.height);
-    drawSprite(images.player, playerWidth * playerFrameX, playerHeight * playerFrameY, playerWidth, playerHeight, playerX, playerY, playerWidth, playerHeight);    
-    rightMove();
+    drawSprite(images.player, playerWidth * playerFrameX, playerHeight * playerFrameY, playerWidth, playerHeight, playerX, playerY, playerWidth, playerHeight);
+
 }
 
 function leftMove() {
