@@ -1,0 +1,13 @@
+
+-1 Hello
+-2 Walking
+3 Hurt
+4 Die
+5 Shoot 
+6 Transformation
+7 Trans Hello
+8 Trans Walking
+9 Trans Hurt
+10 Trans Shoot 
+
+
